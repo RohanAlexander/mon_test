@@ -1,4 +1,4 @@
-baseurl = "http://infallible-archimedes-905859.netlify.com"
+baseurl = "https://infallible-archimedes-905859.netlify.com/"
 title = "Monica Alexander"
 
 theme = "hugo-coder"
